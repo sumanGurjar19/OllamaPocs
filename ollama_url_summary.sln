@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ollama_url_summary", "ollama_url_summary\ollama_url_summary.pyproj", "{437C0237-4511-40CC-B8D1-BC8A369507CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{437C0237-4511-40CC-B8D1-BC8A369507CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437C0237-4511-40CC-B8D1-BC8A369507CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90B97DBD-97A7-4AE9-BB2C-6538EBB51EF8}
+	EndGlobalSection
+EndGlobal
