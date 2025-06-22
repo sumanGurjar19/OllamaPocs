@@ -1,0 +1,106 @@
+Risk of Using AI Coding Tools Such as Copilot and ChatGPT
+
+GenAI tools such as ChatGPT, Github Copilot, or Cursor can reduce go-to-market time by 60% or more, but they come with some challenges. As a software creator and developer, you should always keep these in mind when using GenAI tools.
+
+Generated AI tools are trained on millions of code samples from various public repositories, books, forums, and websites. Many website has popular repositories written in older versions and may not be of the best quality. AI-generated code can sometimes contain bugs, logical errors, or older versions.
+
+You want to always double-check that the code written by AI is up to your standards and follows your code guidelines.
+
+Using AI tools on proprietary or sensitive code risks exposing data if the tool sends code snippets to external servers.
+
+You may want to check the terms and conditions of an AI tool to make sure it's not sending your code to its servers.
+
+Code snippets generated may be based on copyrighted material, raising questions about legal use and ownership. As I mentioned earlier, GenAI models like GPT-t have copied data from public websites and forums, often without permission, and may therefore have some copyright issues. For example, a unique proprietary solution that is used to train AI.
+
+Since vibe coding doesn’t include writing manual code, understanding complex projects could be an issue when it comes to big fixes and updating existing code. Debugging AI-generated code requires solid skills, but beginners may find it harder to fix issues they don’t fully understand.
+
+Ideally, you may want to learn and understand the code written by AI. Getting code documentation is not a bad idea either.
+
+AI-generated code might unintentionally embed biases or unethical design patterns if trained on biased data. For example, AI could learn some best practices that are popular and may represents an individual’s perspective that is no longer applicable.
+
+You may want to recheck the code for ethical and bias issues.
+
+Developers often overlook security. You need to carefully review and understand the code AI generates. Blindly accepting suggestions can lead to issues or security flaws.
+
+Generative AI often struggles with large or complex codebases since it only “sees” a limited context window (e.g., a few hundred lines at once).
+
+It is recommended to use AI in a step-by-step pattern and learn and review code as it writes.
+
+Using AI without learning and understanding code could make developers too dependent on AI assistance, losing the practice of fundamental coding and problem-solving skills. It could create major challenges in emergencies and quick fixes.
+
+Again, you want to make sure to learn, understand, and review all code written by AI.
+
+List Points:
+- Tech
+- News
+- Videos
+- Forums
+- Jobs
+- Books
+- Events
+- MoreInterviewsLiveLearnTrainingCareerMembersBlogsChallengesCertification
+- Interviews
+- Live
+- Learn
+- Training
+- Career
+- Members
+- Blogs
+- Challenges
+- Certification
+- Article
+- Blog
+- Video
+- Ebook
+- Interview Question
+- Collapse
+- Feed
+- Dashboard
+- Wallet
+- Learn
+- Achievements
+- Network
+- Refer
+- Rewards
+- SharpGPT
+- Premium
+- ContributeArticleBlogVideoEbookInterview Question
+- Article
+- Blog
+- Video
+- Ebook
+- Interview Question
+- Register
+- Login
+- 
+- 
+- 
+- 
+- WhatsApp
+- 
+- 
+- 
+- 
+- Mahesh Chand
+- 1h
+- 171
+- 0
+- 2
+- 
+- 
+- 
+- 
+- 
+- 
+- Article
+- AI Code Vulnerabilities
+- AI Coding Risks
+- AI Development
+- ChatGPT Code Quality
+- Copilot Security
+- Developer Skill Erosion
+- Generative AI Risks
+- Intellectual Property AI Code
+- Live Discussion on Startups and Career Growth
+- From Prompt to Product: Coding in the Age of Gen AI
+- Auto-Archive Client Documents for Compliance: Automate Your Business Processes - Ep.6
